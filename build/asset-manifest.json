@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/sooth/static/js/main.6fff97e0.js",
+    "index.html": "/sooth/index.html",
+    "main.6fff97e0.js.map": "/sooth/static/js/main.6fff97e0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6fff97e0.js"
+  ]
+}
